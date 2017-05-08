@@ -24,3 +24,4 @@ the features of each branch are combined.  to show that the merged branch has tw
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+it saves you a lot of time if there are no conflicts.  manual merges gives you more flexibility and control, but is more time consuming.
