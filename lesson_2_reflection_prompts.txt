@@ -16,6 +16,7 @@ When you want to test adding a new feature, but not have it in the master branch
 Branches lets you have an additional workspace to test in without altering the master program.
 
 How do the diagrams help you visualize the branch structure?
+by showing you what is reachable and what is not from each branch
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
