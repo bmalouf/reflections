@@ -20,6 +20,7 @@ by showing you what is reachable and what is not from each branch
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+the features of each branch are combined.  to show that the merged branch has two parents.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
