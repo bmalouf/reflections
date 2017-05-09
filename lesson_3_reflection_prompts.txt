@@ -9,8 +9,9 @@ many projects are too complex to just automatically sync, which is why git takes
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
-
-    Fill in your answer here
+forks are a github function, used to copy an existing repo into a new repo, while referencing the original
+clones are copies of a repo.  you can clone from github to a local machine, or local to loacl
+branches are other versions of code in a single repository that can be edited independently, but at some point share a common ancestor
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
