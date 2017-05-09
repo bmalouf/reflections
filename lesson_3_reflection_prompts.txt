@@ -19,8 +19,8 @@ It let's you keep track of what you have not pushed, and also a state of referen
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-
-    Fill in your answer here
+depending on the size of the project and number of collaboraters, could do so through email, or a cloud storage service.
+a small project that could be split to avoid conflicts might be easier over email, but in general collaboration is much easier through github.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
