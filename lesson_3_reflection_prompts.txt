@@ -15,8 +15,7 @@ branches are other versions of code in a single repository that can be edited in
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
-    Fill in your answer here
+It let's you keep track of what you have not pushed, and also a state of reference if the remote gets updated by someone else.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
