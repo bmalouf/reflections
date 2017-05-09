@@ -4,8 +4,8 @@ If I am working from multiple machines, if multiple people are contributing, or 
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
-
-    Fill in your answer here
+your local repo may be more current than the remote.  someone else may push a new commit which conflicts with what you are working on.
+many projects are too complex to just automatically sync, which is why git takes the default approach of commting, pushing, pulling manually.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
