@@ -24,5 +24,5 @@ a small project that could be split to avoid conflicts might be easier over emai
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+When you are trying something experimental, or testing a new feature that you aren't ready to release in the master branch yet.
+This gives you the freedom to test and experiment, to either eventaully incorporate, or easily discard, as the master branch is not affected.
